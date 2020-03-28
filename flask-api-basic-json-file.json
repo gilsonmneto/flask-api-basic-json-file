@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Deep Sea",
+    "items": [
+      {
+        "name": "Mascara",
+        "price": 150.00
+      },
+      {
+        "name": "Arpao",
+        "price": 550.00
+      }
+    ]
+  },
+  {
+    "name": "Imensidao Azul",
+    "items": [
+      {
+        "name": "Snorkel",
+        "price": 50.00
+      },
+      {
+        "name": "Mangueira",
+        "price": 100.00
+      }
+    ]
+  }
+]
